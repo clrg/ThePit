@@ -1,0 +1,18 @@
+<project-path>
+   <main>
+      <sources>
+         <source-dir path="src_main"/>
+      </sources>
+      <dependencies>
+         <path-entry type="library" name="Widgets"/>
+      </dependencies>
+   </main>
+   <test>
+      <sources/>
+      <dependencies/>
+   </test>
+   <poke>
+      <sources/>
+      <dependencies/>
+   </poke>
+</project-path>
